@@ -1,0 +1,710 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 0,
+    "versionPublish": "3.8.3",
+    "name": "nonie",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f28281",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Indie Flower",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/student%20b19/Desktop/myprojek",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PANTUN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Laman 1</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page7.html\" aria-expanded=\"false\">Laman 2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Page 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Page 2</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">kebawah&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Page 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Page 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Page 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Page 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Page 7</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Page 8</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Page 9</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Page 10</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">NONIE- 0109891960</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "NORANI&nbsp;",
+          "text": "MULTIMEDIA.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">tekan</a> "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PANTUN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Laman 1</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page7.html\" aria-expanded=\"false\">Laman 2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Page 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Page 2</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">kebawah&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Page 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Page 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Page 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Page 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">Page 7</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Page 8</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Page 9</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Page 10</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">NONIE- 0109891960</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-5",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "assets/images/img20160917121029-1400x1050-20.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NONIE96",
+          "text": "PELAJAR &nbsp;IKBN KUALA LANGAT .<br>KOS MULTIMEDIA PENGARANGAN &nbsp; &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">TEKAN</a>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "order": 7
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Pantun Agama Islam",
+          "text": "Kemumu di dalam semak<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Jatuh sehelai selarasnya</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Meski ilmu setinggi tegak</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Tidak sembahyang apa gunanya</span><br><br>.Nangka muda digulai lemak<br>Buah keranji masak tersangkut<br>Harta dunia jangan di tamak<br>Bila mati tidak mengikut<br><br>Kera di hutan berlompat-lompat<br>Si pemburu memasang jerat<br>Hina sungguh sifat mengumpat<br>Dilaknat Allah dunia akhirat<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">tekan</a> "
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "order": 8
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-7",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Pantun Teka Teki",
+          "text": "Ada si tuan pakai celana,<br>Melihat bintang di malam hari,<br>Jikalau tuan memang bijaksana,<br>Binatang apa tanduk di kaki?<br>jawapan : ayam jantan.<br><br>Belayar kapal dari Berandan,<br>Menuju arah Selat Malaka,<br>Lebar kepala daripada badan,<br>Apakah itu cobalah terka?<br>jawapan : ikan pari<br><br>Burung nuri burung gereja,<br>Terbang santai di tengah taman,<br>Cobalah cari wahai saudara,<br>Makin diisi semakin ringan?<br>jawapan : balon<br><br>Mencari batu di tengah pasar,<br>Setelah pasar bubar semua,<br>Kalau situ mengaku pintar,<br>Hewan apa ekor di kepala?<br>Jawapan : Gajah<br><br><br>Anak kecil ke pasar malam,<br>Hendak membeli jajanan buah,<br>Di masa kecil berbaju hitam,<br>Sudah besar bajunya merah<br>jawapan : cabai merah<br><br>Buah budi bedara mengkal<br>Masak sebiji di tepi pantai<br>Hilang budi bicara akal<br>Buah apa yang tidak bertangkai?<br>jawapan : buah hati<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">tekan</a> "
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "order": 9
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Pantun Peribahasa",
+          "text": "Kayu keras si kayu kampas<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Alas tempat orang berjudi</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Ada beras kerja pun deras</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Ada padi kerja pun menjadi</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>Kayu bakar dibuat arang<br>Arang dibakar memanaskan diri<br>Jangan mudah menyalahkan orang<br>Cermin muka lihat sendiri<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>Anak buaya pergi bertenung<br>Singgah ke lubuk memakan bangkai<br>Hendak hati memeluk gunung<br>Gunung dipeluk tangan tak sampai<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">tekan</a> "
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "order": 4
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-4",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "PANTUN",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">TEKAN</a> "
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "order": 10
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Pantun Budi",
+          "text": "Payah kami menabur padi<br>Nenas juga ditanam orang<br>Payah kami menabur budi<br>Emas juga dipandang orang<br><br>Tinggi bukit gilang-gemilang<br>Air laut tenang-tenangan<br>Budi sedikit tidakkan hilang<br>Itu menjadi kenang-kenangan<br><br>Jentayu burung jentayu<br>Hinggap dibalik pokok mayang<br>Bunga kembang akan layu<br>Budi baik bilakan hilang<br><br>Biarlah orang bertanam buluh<br>Mari kita bertanam padi<br>Biarlah orang bertanam musuh<br>Marilah kita bertanam budi<br><br>Ayam jantan siayam jalak<br>Jaguh Siantan nama diberi<br>Rezeki tidak saya tolak<br>Musuh tidak saya cari<br><br>Jikalau kita bertanam padi<br>Senanglah makan adik-beradik<br>Jikalau kita bertanam budi<br>Orang yang jahat menjadi baik<br><br>Baik-baik makan keladi<br>Keladi itu ada miangnya<br>Baik-baik termakan budi<br>Budi itu ada hutangnya<br><br>Buah nenas bawa berlayar<br>Dimakan sebiji di Tanjung Jati<br>Hutang emas boleh dibayar<br>Hutang budi dibawa mati<br><br>Tenanglah tenang air di laut<br>Sampan kolek mudik ke tanjung<br>Hati terkenang mulut menyebut<br>Budi yang baik rasa nak junjung<br><br>Cindai bercorak penuh berpita<br>Pakaian anak Panglima Garang<br>Emas dan perak pengaruh dunia<br>Budi yang baik dijunjung orang<br><br><br>Jangan suka mencabut padi<br>Bila dicabut hilang buahnya<br>Jangan suka menyebut budi<br>Bila disebut hilang tuahnya<br><br>Kalau keladi sudah ditanam<br>Jangan lagi meminta talas<br>Kalau budi sudah ditanam<br>Jangan lagi meminta balas<br><br>Singgah ke pulau menggali ubi<br>Kalau ke beting berdayung juga<br>Sepuluh kali kita berbudi<br>Kalau miskin terbuang juga<br><br>Sudah lama memakai gelang<br>Gelang berukir sirama-rama<br>Harimau mati meninggalkan belang<br>Manusia mati meninggalkan nama<br><br>Mati kayu karena benalu<br>Patah layu dahannya mati<br>Mati Melayu karena malu<br>Kalah Melayu termakan budi<br><br>Mencari ikan belida<br>Terpancing pula si ikan keli<br>Buat baik berpada-pada<br>Buat jahat jangan sekali<br><br>Jauh sungguh pergi mandi<br>Setapak jalan lewatkan huma<br>Berat sungguh menanggung budi<br>Seribu tahun takkan lupa<br><br>Ragi pulut dalam kati<br>Tapai manis dalam kuali<br>Selagi hidup dalam pekerti<br>Sampailah mati dalam budi<br><br>Pisang emas dibawa belayar<br>masak sebiji di atas peti<br>lalu diambil untuk dimakan<br>Hutang emas boleh dibayar<br>hutang budi dibawa mati<br>budi tuan tuhan balaskan<br><br>Kain prai baju prai<br>Pakaian anak raja Yamtuan<br>Badan berkecai tulang bercerai<br>Barulah lupa budimu tuan",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">tekan</a> "
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "order": 11
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Pantun Melayu",
+          "text": "<br>Rata-rata kau adalah besi padu<br>Pandai besi mengolah dan merobah<br>Jadilah paras mu comel lagi indah<br>Kacip kata ku<br>Adakottu nama asal mu<br>Benua Keling mambawa berita<br>Tiga kurun telah berlalu<br><br>Kerja mu tidak berubah<br>Pinang jua yang dihogah<br>Pensirih yang tidak gundah<br>Kerja kuat ikut perintah<br>Mujur lalu melintang patah.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">tekan</a> "
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "PengenalanPantun",
+          "text": "Pantun juga adalah bentuk puisi Melayu yang asli dan unik. Ia merupakan sumber khazanah dalam kehidupan masyarakat di Alam Melayu, baik dari segi pemikiran, kesenian, maupun nilai-nilai moral dan sosialnya. Akalbudi orang Melayu dapat dilihat dalam pantun yang diungkapkan secara spontan dengan begitu ringkas dan padat. Ini termasuklah kebijaksanaan dan ketangkasannya menjana makna yang dalam dan mengukir gerak hati serta lukisan rasa yang indah bersama penampilan unsur-unsur alam.<br><br>Pantun adalah genre kesusasteraan tradisional Melayu yangberkembang di seluruh dunia khususnya di Nusantara sejak ratusan tahun lampau. Pantun adalah simbol artistik masyarakat Nusantara dan ia adalah lambang kebijaksanaan berfikir. Pantun sering dijadikan sebagaialat komunikasi. Pantun bersifat ringkas, romantik dan mampu mengetengahkan aspirasi masyarakat dengan lebih jelas. Pantun begitu sinonim dengan pemikiran dan kebudayaan masyarakat nusantara danMalaysia.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">tekan</a>"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Pantun Pemisahan",
+          "text": "Pucuk pauh selara pauh<br>Sembilu ledung ledungkan<br>Adik jauh kekanda jauh<br>Kalau rindu sama menungkan<br><br>Pucuk pauh selara pauh<br>Pucuk terjuntai di atas titi<br>Adik jauh kekanda jauh<br>Menaruh rindu di dalam hati<br><br>Patah pasak dalam kemudi<br>Patah diruang bunga kiambang<br>Kalaulah tidak bertemu lagi<br>Bulan yang terang sama dipandang<br><br>Batang selasih permainan budak<br>Berdaun sehelai dimakan kuda<br>Bercerai kasih bertalak tidak<br>Seribu tahun kembali juga<br><br>Batang selasih permainan budak<br>Tumbuhnya jarang tepi telaga<br>Bercerai kasih bukan kehendak<br>Paksaan orang dituruti juga<br><br>Sayang Semarang Gunung Merapi<br>Anak gelama dituba jangan<br>Tidak dilarang adik berlaki<br>Janji yang lama dilupa jangan<br><br>Ikan sepat dimasak berlada<br>Kuah cencaluk jadi bumbunya<br>Kalau tak dapat dimasa muda<br>Akan kutunggu sampai menjanda<br><br>Harum sungguh bunga melati<br>Kembang setangkai diwaktu pagi<br>Hancur sungguh rasa dihati<br>Sedang berkasih ditinggal pergi<br><br>Jauh berdagang ditengah kota<br>Menjual dagangan pelbagai benda<br>Abang pergi mencari harta<br>Buat meminang akan adinda<br><br>Kalau ada sumur diladang<br>Boleh saya menumpang mandi<br>Kalau ada umur yang panjang<br>Boleh kita berjumpa lagi<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">tekan</a> "
+        }
+      ]
+    },
+    "page12.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "header4-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "SEKIAN&nbsp;<br>TERIMA<br>KASIH",
+          "text": "NORANI BINTI MOHD RAMLI.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
+        }
+      ]
+    }
+  }
+}
